@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! I'm Saket Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h4 align="center">Backend developer with a strong foundation in building scalable systems and a growing expertise in Artificial Intelligence. My journey into coding began with a desire to create functional applications, which led me to explore various areas of Computer Science. I hold a B.Tech degree in Information Technology and am currently deepening my knowledge in Machine Learning and AI.</h4>
+<h4 align="center">Backend developer with a strong foundation in building scalable systems and a growing expertise in Artificial Intelligence. My journey into coding began with a desire to create functional applications, which led me to explore various areas of Computer Science. I hold a B.Tech degree in Computer Science and am currently deepening my knowledge in Machine Learning and AI.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketjaiswal746&color=green" alt="Manish" /> </p>
 
